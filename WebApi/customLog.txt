@@ -1,0 +1,5 @@
+
+GET / 200 - 327ms
+GET /Customer?customerId=10 200 - 2377ms
+GET / 200 - 316ms
+GET /Customer?customerId=10 200 - 161ms
